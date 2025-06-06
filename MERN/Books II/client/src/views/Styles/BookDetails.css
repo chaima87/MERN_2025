@@ -1,0 +1,14 @@
+.book-details {
+  padding: 1rem;
+  max-width: 600px;
+  margin: auto;
+}
+
+.delete-btn {
+  background: red;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 10px;
+  cursor: pointer;
+}

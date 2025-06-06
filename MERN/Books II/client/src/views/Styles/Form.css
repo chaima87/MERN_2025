@@ -1,0 +1,24 @@
+.book-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1rem;
+  max-width: 400px;
+  margin: auto;
+}
+
+.book-form input[type="text"],
+.book-form input[type="number"] {
+  padding: 0.4rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.book-form button {
+  background: #00bfff;
+  color: white;
+  border: none;
+  padding: 0.5rem;
+  border-radius: 10px;
+  cursor: pointer;
+}
